@@ -1,0 +1,63 @@
+li {
+    border-right: 1px solid #bbb;
+    padding-top: 5;
+    padding-bottom: 5;
+}
+
+#marquee {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 15px;
+    background-color: aqua;
+}
+
+
+#vid {
+    height: 570px;
+    width: 100%;
+    border: none;
+
+}
+
+#contact {
+    top: 0;
+    margin-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+#principal {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.campus_life{
+    border: 1px solid black ;
+    margin-top: 5px;
+    
+    
+}
+
+.photos-c{
+    height: 150px;
+    width: 100%;
+    margin-top: 15px;
+}
+
+.achieve_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.achieve_head i
+{
+    float: right
+}
